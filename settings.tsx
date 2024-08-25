@@ -8,7 +8,7 @@ export const mintText = [
 ];
 
 //header image in the ui. replace with your own
-export const image = "https://avatars.githubusercontent.com/u/93528482?v=4";
+export const image = "https://salesianorg.edu.ar/new_img/LogoRotary.jpg";
 
 //website title
-export const headerText = "MarkSackerberg's mint UI";
+export const headerText = "Herramienta de MINTEO DE NFT PARA EL ROTARY";
