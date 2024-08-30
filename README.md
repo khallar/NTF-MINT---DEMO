@@ -6,7 +6,9 @@ This repository is for Candy Machine V3, Account Version V2. (This is what you h
 Visible to the user:
 
 - Mint Page:
-![image](https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial/assets/93528482/0ac70bda-5eee-4f6a-8035-ccf127fffc80)
+![image](https://salesianorg.edu.ar/new_img/mintExample.png)
+
+
 
 - Successful mint confirmation:
 ![image](https://github.com/MarkSackerberg/umi-cmv3-ui-inofficial/assets/93528482/7e671345-914a-4d22-bf9f-763006a66560) 
